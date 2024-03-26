@@ -1,9 +1,10 @@
 {
-  "name": "switch-case",
+  "name": "saif-switch-case-calculator",
   "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
